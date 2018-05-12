@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '38525'
     url: http://www.gutenberg.org/2009/agents/38525
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36880#Niece-Catherine
 gutenberg_issued: '2011-07-28'
 gutenberg_type: Text
 identifiers:
