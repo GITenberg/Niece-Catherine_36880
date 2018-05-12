@@ -1,0 +1,27 @@
+_repo: Niece-Catherine_36880
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36880-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hampden, Mary
+    gutenberg_agent_id: '38525'
+    url: http://www.gutenberg.org/2009/agents/38525
+description: ''
+gutenberg_issued: '2011-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36880'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Young women -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Uncles -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Nieces -- Juvenile fiction'
+title: Niece Catherine
+url: http://www.gutenberg.org/ebooks/36880
